@@ -50,7 +50,7 @@ Working on this project gave me practical experience in:
 
 ## 🖼️ Gallery
 
-| PCB Top Layer | 3D Render | Layout Snapshot |
+| 3D Render | Layout Snapshot | Schematic Snapshot |
 |:-------------:|:---------:|:---------------:|
 | ![3D Top](XL6009-Boost-Converter/Images/3D_View_Top.png) | ![PCB LAYOUT](XL6009-Boost-Converter/Images/PCB_Layout.png) | ![Schematic](XL6009-Boost-Converter/Images/Schematic.png) |
 
